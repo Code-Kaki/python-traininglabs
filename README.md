@@ -12,8 +12,8 @@
 ## Getting Started
 
 1. Download and install [Anaconda Individual Edition](https://www.anaconda.com/products/individual).
-2. Setup your conda environment by running this in your Anaconda Prompt
+2. Setup your conda environment by running this in your Anaconda Prompt.
 
-     `conda env create -f environment.yml`
+     ```conda env create -f environment.yml```
 
 Note: The environment setup will take some time to download required modules.
