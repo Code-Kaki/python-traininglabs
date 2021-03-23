@@ -1,0 +1,9 @@
+name: python-fundamentals
+dependencies:
+  - numpy
+  - pandas
+  - pandas-profiling
+  - matplotlib
+  - pandas
+  - seaborn
+  - scikit-learn
