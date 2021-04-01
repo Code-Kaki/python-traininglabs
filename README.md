@@ -1,4 +1,4 @@
-# Python Fundamentals: Basics You Need To Know To Start Your Python Journey
+# Python Training Labs: Basics You Need To Know To Start Your Python Journey
 
 
 ## Contents
